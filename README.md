@@ -25,21 +25,22 @@
 ### Week2-1 버전 관리 개요
 * 버전 관리 또는 소스 관리 혹은 소스 코드 관리는 동일한 정보에 대한 여러 버전을 관리하는 것을 말한다. [출처](https://ko.wikipedia.org/wiki/버전_관리)
 
+![Image](https://github.com/user-attachments/assets/5ab155f3-309d-4ee5-9665-5d0d890cff65)
+_버전 관리 없이 문서 작성_
+
 -------------
 ### Week2-2 Git
 * 깃은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 스냅샷 스트림 기반의 분산 버전 관리 시스템이다. [출처](https://ko.wikipedia.org/wiki/깃_(소프트웨어))
 
-![Image] ("https://git-scm.com/images/logos/1color-orange-lightbg@2x.png")
+![Image](https://git-scm.com/images/logos/1color-orange-lightbg@2x.png)
 
 -------------
 ### Week2-3 Github, fork, pull request
 * 왜 깃허브인가요?
   > We find that people make a surprisingly rich set of social inferences from the networked activity information in GitHub, such as inferring someone else's technical goals and vision when they edit code, or guessing which of several similar projects has the best chance of thriving in the long term. Users combine these inferences into effective strategies for coordinating work, advancing technical skills and managing their reputation. [출처](https://dl.acm.org/doi/10.1145/2145204.2145396)
-* 저런내용
-  > 그런데 저런거
-
-[My Github](https://github.com/sumintnals)
+* [My Github](https://github.com/sumintnals)
 
 -------------
 ### Week3     Markdown
+* 마크다운은 일반 텍스트 기반의 경량 마크업 언어다. 일반 텍스트로 서식이 있는 문서를 작성하는 데 사용되며, 일반 마크업 언어에 비해 문법이 쉽고 간단한 것이 특징이다. [출처](https://ko.wikipedia.org/wiki/마크다운)
 * [마크다운 문법 배우러 가기](https://www.markdowntutorial.com/)
